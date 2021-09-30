@@ -7,7 +7,7 @@ Code for our paper "Domain adaptive transfer learning for fault diagnosis." 2019
 ### Demo Experiment
 CWRU: Source is recorded under load 3; Target is recorded under load 1
 
-The code was not identical to the paper as we updated the code from tf1.x to tensorflow2/keras. The provided notebook was used as part of the tutorial session for the European conference of the prognosticas and health management society (PHME21).
+The code is not identical to the implementation we used in the paper as we updated the code from tf1.x to tensorflow2/keras. The provided notebook was also used as part of the tutorial session for the European conference of the prognosticas and health management society (PHME21).
 
 ### References
 Please cite our work if you use this code:
